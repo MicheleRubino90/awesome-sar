@@ -28,7 +28,7 @@ Software capable of multiple processing steps
 * [Orfeo Toolbox (OTB)](https://www.orfeo-toolbox.org/) - Open Source processing of remote sensing images ([github](https://github.com/orfeotoolbox/OTB), [Cookbook](https://www.orfeo-toolbox.org/CookBook/recipes/sarprocessing.html): [SAR Processing](https://www.orfeo-toolbox.org/CookBook/recipes/sarprocessing.html), [Guide](http://orfeo-toolbox.org/SoftwareGuide/))
 * [SARbian](https://eo-college.org/sarbian/) - free and open SAR operating system
 * [Gamma ($$)](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
-* [SARscape ($$)](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape is a modular set of functions for the processing of all spaceborne and selected airborne SAR data.
+* [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape is a complete set of functions for the end-to-end processing of all spaceborne and selected airborne SAR data.
 
 ## InSAR Processing Software
 
@@ -38,7 +38,7 @@ Software capable of multiple processing steps
 * [ISCE2](https://github.com/isce-framework/isce2) - InSAR Scientific Computing Environment.
 * [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferomtric software.
 * [Gamma ($$)](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
-* [SARscape ($$)](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports the processing of Interferometric SAR and Differential Interferometric SAR data for the generation of Digital Elevation Model, Coherence, and Land Displacement maps.
+* [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports the processing of Interferometric SAR and Differential Interferometric SAR data for the generation of Digital Elevation Model, Coherence, and Land Displacement maps.
 
 
 ## PolSAR Processing Software
@@ -57,6 +57,7 @@ Software capable of multiple processing steps
 * [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for Rate and Time-series Estimation
 * [SARPROZ](http://www.sarproz.com/) - The SAR PROcessing tool by periZ 
 * [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers - [git-version](https://github.com/dbekaert/stamps)
+* [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports PS as well as SBAS processing of interferometric time series in desktop as well as in cluster environments, and the analisys of backscatter time series.
 
 ## Tropospheric Noise Correction Software
 
@@ -112,6 +113,7 @@ Software capable of multiple processing steps
 ### InSAR Modelling
 * [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modelling from various finite and extended earthquake dislocation sources.
 * [grond](https://pyrocko.org) - Modern probabalistic surface displacement inversion (works with [kite](https://github.com/pyrocko/kite)).
+* [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape provides moduels for the analytic modeling of geophysical sources developed in collabopration with INGV.
 
 ### System configuration and installation
 * [insar_instal](https://github.com/mgovorcin/insar_inst) - Set of scripts that automatically install InSAR softwares
